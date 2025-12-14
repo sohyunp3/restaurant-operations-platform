@@ -1,0 +1,16 @@
+# Build output
+**/bin/
+**/obj/
+
+# IDEs
+.vs/
+.idea/
+.vscode/
+
+# User / OS files
+*.user
+*.suo
+*.DS_Store
+*.log
+.env
+.nuget/
