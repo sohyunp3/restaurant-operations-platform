@@ -1,2 +1,12 @@
-# restaurant-operations-platform
-Real-time telemetry, analytics, and incident detection for restaurant systems (C#, .NET 8, Kafka, gRPC, TimescaleDB)
+# Restaurant Operations Platform
+
+
+A .NET-based platform for ingesting restaurant device telemetry and generating operational insights.
+
+
+## Quickstart
+
+
+### 1) Start infra
+```bash
+make up

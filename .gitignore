@@ -1,0 +1,21 @@
+# Build output
+**/bin/
+**/obj/
+**/Properties/launchSettings.json
+**/out/
+
+# IDEs
+.vs/
+.idea/
+.vscode/
+
+# User / OS files
+*.user
+*.suo
+*.DS_Store
+*.log
+.env
+.nuget/
+
+# HTTP request files
+*.http
