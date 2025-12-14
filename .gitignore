@@ -14,3 +14,6 @@
 *.log
 .env
 .nuget/
+
+# HTTP request files
+*.http
