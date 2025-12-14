@@ -1,0 +1,12 @@
+C:\Projects\restaurant-operations-platform\src\Common\bin\Debug\net10.0\Common.deps.json
+C:\Projects\restaurant-operations-platform\src\Common\bin\Debug\net10.0\Common.dll
+C:\Projects\restaurant-operations-platform\src\Common\bin\Debug\net10.0\Common.pdb
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.AssemblyInfoInputs.cache
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.AssemblyInfo.cs
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.csproj.CoreCompileInputs.cache
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.sourcelink.json
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.dll
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\refint\Common.dll
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\Common.pdb
+C:\Projects\restaurant-operations-platform\src\Common\obj\Debug\net10.0\ref\Common.dll
